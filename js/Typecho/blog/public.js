@@ -5,6 +5,7 @@
 // 名人名言、座右铭
 // 使用方法：
 // <p id="hitokoto"><a href="#" id="hitokoto_text"></a></p>
+// 暂未用到此 JS
 
 fetch('https://v1.hitokoto.cn')
     .then(response => response.json())
